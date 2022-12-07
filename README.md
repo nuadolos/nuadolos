@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Vladimir 👋
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=nuadolos&show_icons=true&count_private=true" alt="nuadolos GitHub stats" align="right" />
