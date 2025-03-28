@@ -1,7 +1,23 @@
 ### Hi there, I'm Vladimir 👋
 
-A little junior developer 👉👈, creating projects in C# & TypeScript. I mainly develop RESTful APIs using ASP.NET Core framework and intensive study of Angular framework 🤔. But I have also worked with technologies such as WPF, Windows Form, Xamarin, and MAUI 📚.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" title="dotnet" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" title="angular" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="postgres" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" title="redis" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="apachekafka" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="docker" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" title="kubernetes" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" title="sentry" width="40" height="40" />&nbsp;
 
-<img src="https://github-readme-stats-peach-kappa-40.vercel.app/api/?username=nuadolos&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="nuadolos GitHub stats" align="right" />
+**Middle .NET Developer** passionate about writing clean, efficient, and scalable code. My main focus lies in **developing RESTful APIs** using **ASP.NET Core** and **EF Core**, with additional experience in UI development using **Angular** in my projects.  
 
-<img src="https://github-readme-stats-peach-kappa-40.vercel.app/api/top-langs/?username=nuadolos&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="most used languages" align="right" />
+I specialize in **legacy project refactoring**, tackling complex challenges like **call logging** (extracting phone numbers from application memory) and **query performance**, increasing RPS.  
+
+Beyond coding, I **mentor fellow developers**, discuss new technologies, and share knowledge. I started my journey at **Aton** and continue growing there. I've also attended **Dotnext, E-Code, and Highload+** conferences.
+
+<div id="stat" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nuadolos&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nuadolos&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nuadolos&theme=github_dark"/>
+</div>
